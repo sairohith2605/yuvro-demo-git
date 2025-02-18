@@ -1,1 +1,2 @@
-This is a first demo session
+This is a first demo session.
+We understood something about git
